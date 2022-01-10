@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning java programming
 - 👯 I’m looking to collaborate on youtube
-- 🤔 I’m looking for help with 
+- 🤔 I’m looking for help with Data Science
 - 💬 Ask me about Math problems & any coding related staff
 - 📫 How to reach me: facebook/Mirza Lutfur Ali Rafi
 - 😄 Pronouns: He/his
